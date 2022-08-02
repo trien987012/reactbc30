@@ -1,4 +1,5 @@
 import BaiTapThucHanhLayout from "./BaiTapThucHanhLayout/BaiTapThucHanhLayout";
+import BaiTapThuKinh from "./BaiTapThuKinh/BaiTapThuKinh";
 import Databinding from "./Databinding/Databinding";
 import HandleEvent from "./HandleEvent/HandleEvent";
 import ProductList from "./Props/DemoProps/BaiTapProps/ProductList";
@@ -29,7 +30,8 @@ function App() {
       {/* <ProductList /> */}
       {/* <BaiTapXemChiTiet /> */}
       {/* <ExerciseCarStore /> */}
-      <BaiTapThucHanhLayout />
+      {/* <BaiTapThucHanhLayout /> */}
+      <BaiTapThuKinh />
     </div>
   );
 }

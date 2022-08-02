@@ -1,0 +1,8 @@
+@keyframes animChangeGlasses {
+    from{
+        width: 0px;
+    }
+    to{
+        width: 150px;
+    }
+}
